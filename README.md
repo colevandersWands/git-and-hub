@@ -96,9 +96,7 @@ A very simple [markup language](https://www.lifewire.com/what-are-markup-languag
 
 [Github Pages](https://pages.github.com) allows you to host static sites directly from your GitHub repositories. Create a new repository called "username".github.io, write a README.md to introduce yourself and link to your projects, go into settings and turn on github pages, and that's it! 
 
-_an Example portfolio_
-
-Here is [an example](https://elewa-student.github.io) of a GitHub portfolio.  Study how this interactive portfolio was built using only GitHub repos and GH-Pages hosting. Notice especially what all of the URLs are for the demos, code, and main portfolio. We expect your portfolio to be organized the same way.
+Here is [an example](https://elewa-student.github.io) of a GitHub portfolio.  Study how this interactive portfolio was built using only GitHub repos and GH-Pages hosting. Notice especially what all of the URLs are for the demos, code, and main portfolio. We expect your portfolio to be organized the same way. (at first your portfolio will be written in markdown, later on you will rewrite it in HTML & CSS like this example)
 
 _Helpful Resources_
 
