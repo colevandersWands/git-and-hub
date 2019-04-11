@@ -53,9 +53,6 @@ A *save* in Git however, would record differences of files and folders AND keep 
 
 While Git works on your *local* machine, GitHub is a *remote* storage facility on the web for all your coding projects. This means that by learning Git, you will get to showcase your portfolio on GitHub! This is really important because almost all software development companies consider the ability to use Git as an **essential skill for a modern web developer** to have; having a portfolio will provide proof to future potential employers as to what you are capable of.
 
-In the next lesson we will go over the basic workflow of using Git which should enhance your understanding and demonstrate why Git is so useful.
-
-And finally, you will set up a project with Git and this will serve as a template for setting up your future projects.
 
 [TOP](#index)
 
